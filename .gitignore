@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+venv
+quote/quote/__pycache__/
+quote/quote/spiders/__pycache__/
